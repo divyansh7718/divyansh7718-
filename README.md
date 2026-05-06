@@ -1,5 +1,5 @@
 <div align="center">
-# 👋 Hey, I'm Divyansh
+👋 Hey, I'm Divyansh
  
 ### 🚀 Software Developer · .NET | ASP.NET | C# | Python · Web Apps & ML Systems
  
@@ -9,7 +9,6 @@
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✅-brightgreen?style=for-the-badge)]()
  
 </div>
----
  
 ### 🧑‍💻 About Me
  
@@ -38,7 +37,6 @@
 **Database & ORM**
  
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
  
 **Data & Analytics**
  
@@ -58,14 +56,12 @@
 ### 📊 GitHub Stats
  
 <div align="center">
-![Divyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyansh7718&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh7718&layout=compact&theme=tokyonight&hide_border=true)
  
 ![GitHub Streak](https://streak-stats.demolab.com?user=divyansh7718&theme=tokyonight&hide_border=true)
  
 </div>
----
  
 ### 📌 Featured Projects
  
