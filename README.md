@@ -82,7 +82,6 @@
 ---
  
 <div align="center">
-![Visitor Count](https://komarev.com/ghpvc/?username=divyansh7718&color=0e75b6&style=flat)
  
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
  
