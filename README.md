@@ -1,10 +1,10 @@
 <div align="center">
 👋 Hey, I'm Divyansh
 🚀 Software Developer · .NET | ASP.NET | C# | Python · Web Apps & ML Systems
-Show Image
-Show Image
-Show Image
-Show Image
+[Show Image](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+[Show Image](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[Show Image](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[Show Image](https://img.shields.io/badge/Open%20to%20Work-%E2%9C%85-brightgreen?style=for-the-badge)
 </div>
 
 🧑‍💻 About Me
